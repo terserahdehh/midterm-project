@@ -1,11 +1,11 @@
-README.md on GitHub containing:
-Names of group members
-Made Izzy Prema Darma
-Damar Aryaputra Rahman
-Serafina Nala Tri Setiawan
-William Samuel Mulya
-Zakiy Makarim Iskandar Daulay
-Muhammad Brian Subekti
+README.md on GitHub containing: <br>
+Names of group members <br>
+Made Izzy Prema Darma <br>
+Damar Aryaputra Rahman <br> 
+Serafina Nala Tri Setiawan <br>
+William Samuel Mulya <br>
+Zakiy Makarim Iskandar Daulay <br>
+Muhammad Brian Subekti <br>
 
 
 **Application description (story of the proposed application and its usefulness)**
