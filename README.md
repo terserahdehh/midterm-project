@@ -44,6 +44,6 @@ Hosts are property owners who list their accommodations on the platform. Their k
 - **View Bookings**: Monitor reservations made by guests and manage the booking calendar.
 
 
-**Application deployment link**
+### **Application deployment link** <br>
 http://william-samuel-balinchill.pbp.cs.ui.ac.id
 
