@@ -7,7 +7,7 @@ Zakiy Makarim Iskandar Daulay <br>
 Muhammad Brian Subekti <br>
 
 
-## Application description (story of the proposed application and its usefulness)
+## **Application description**
 Our website aims to provide easy access for travelers to discover a wide range of unique accommodations in Bali, from beachfront villas to cozy inland bungalows. The platform facilitates seamless interactions between hosts and guests, offering features like real-time booking, user reviews, and personalized recommendations based on user preferences. This will make the experience of visiting Bali more enjoyable and convenient while also supporting local hosts in promoting their properties.
 
 The website addresses the challenges travelers face when searching for accommodations that suit their needs, especially with the abundance of options available. Additionally, local hosts often need a user-friendly platform to showcase their properties and engage with guests efficiently. Our platform solves these issues by offering diverse accommodation options along with easy booking and communication features.
@@ -27,7 +27,7 @@ The website helps travelers by providing detailed property descriptions, user re
 ## **Source of initial dataset for main product category**
 https://www.kaggle.com/datasets/jokottingkir/bali-hotels-and-destinations
 
-User roles and their descriptions (as there may be more than one type of user accessing the application)
+## **User roles and their descriptions**
 
 ### 1. Guests
 Guests are users who seek accommodations on the platform. Their primary functions include:
