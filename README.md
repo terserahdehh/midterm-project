@@ -45,5 +45,5 @@ Hosts are property owners who list their accommodations on the platform. Their k
 
 
 **Application deployment link**
-
+http://william-samuel-balinchill.pbp.cs.ui.ac.id
 
