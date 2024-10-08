@@ -1,7 +1,7 @@
 ## Names of group members: 
 Made Izzy Prema Darma <br>
 Damar Aryaputra Rahman <br> 
-Serafina Nala Tri Setiawan <br>
+Serafina Nala Putri Setiawan <br>
 William Samuel Mulya <br>
 Zakiy Makarim Iskandar Daulay <br>
 Muhammad Brian Subekti <br>
